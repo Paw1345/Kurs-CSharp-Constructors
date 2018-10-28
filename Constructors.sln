@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typy", "Typy\Typy.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typy.Tests", "Typy.Tests\Typy.Tests.csproj", "{38FF49C5-6756-439D-8A9B-47B4760802F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImdbCommunication.Tests", "ImdbCommunication.Tests\ImdbCommunication.Tests.csproj", "{819780C3-EEFC-48D6-808C-F5377DD2BB6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{38FF49C5-6756-439D-8A9B-47B4760802F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38FF49C5-6756-439D-8A9B-47B4760802F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38FF49C5-6756-439D-8A9B-47B4760802F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819780C3-EEFC-48D6-808C-F5377DD2BB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819780C3-EEFC-48D6-808C-F5377DD2BB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819780C3-EEFC-48D6-808C-F5377DD2BB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819780C3-EEFC-48D6-808C-F5377DD2BB6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
