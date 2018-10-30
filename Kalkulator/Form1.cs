@@ -93,6 +93,9 @@ namespace Kalkulator
         private void b0_Click(object sender, EventArgs e)
         {
             Dzialanie(0);
+
+            
+        
         }
 
         private void b7_Click(object sender, EventArgs e)
@@ -128,10 +131,15 @@ namespace Kalkulator
         private  void bDzielenie_Click(object sender, EventArgs e)
         {
             RodzajDzialania = '/';
+
+            
+
             tbWynik.Text = "";
 
 
         }
+        
+        
 
         private void Dzialanie(int liczba)
         {
